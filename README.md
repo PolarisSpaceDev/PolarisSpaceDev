@@ -24,6 +24,23 @@ Education:
 {
  "Self-taught programmer"
 }
+
+Experience:
+{
+ "Web Development"
+   HTML & CSS: Sept 2024 - PRESENT
+
+ "App Development"
+   Flutter w/DART: Dec 2024 - Aug 2025
+   React Native w/TypeScript: Sep 2025 - PRESENT
+
+ "Game Development"
+   Unity w/C#: Sept 2025 - Feb 2026
+   Godot w/GDScript: Feb 2026 - PRESENT
+
+  "Isolated"
+   Java: Sept 2025 - PRESENT
+}
 ```
 
 ## Programming languages I've worked with:
